@@ -82,7 +82,6 @@ This section contains questions for you to check your understanding of this less
 
 - <a class="knowledge-check-link" href="#single-responsibility">Explain the "Single Responsibility Principle".</a>
 - <a class="knowledge-check-link" href="https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa">Briefly explain the additional SOLID principles.</a>
-- <a class="knowledge-check-link" href="https://web.archive.org/web/20200810210808/https://medium.com/@alexcastrounis/how-to-write-highly-scalable-and-maintainable-javascript-coupling-c860787dbdd4">Explain what "tightly coupled" objects are and why we want to avoid them.</a>
 
 ### Additional Resources
 
